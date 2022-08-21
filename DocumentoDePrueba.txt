@@ -12,3 +12,23 @@ El lenguaje Java se creó con cinco objetivos principales:
 - Debería incluir por defecto soporte para trabajo en red.
 - Debería diseñarse para ejecutar código en sistemas remotos de forma segura.
 - Debería ser fácil de usar y tomar lo mejor de otros lenguajes orientados a objetos, como C++. Fuente: Wikipedia
+
+
+
+Características de JAVA
+
+A pesar de haber sido creado en 1995, se ha mantenido vigente con el pasar de los años y la tecnología, siendo un factor esencial para el avance de la era digital, esto ha sido gracias a las siguientes características:
+
+1- Simplicidad
+En comparación de los lenguajes C y C++, JAVA usa elementos sencillos para su manejo y fácil aprendizaje.
+
+2- Orientado a objetos
+Es gracias a esta característica permite el diseño del software para que diversos datos permanezcan unidos a sus operaciones.
+
+3- Distribuido e independiente de la plataforma.
+Esta característica es la responsable de su gran popularidad, ya que este lenguaje se puede ejecutar en cualquier hardware, lo que lo hace portátil y accesible, además, entre sus características más destacadas es la gran biblioteca que posee gracias a la comunidad.
+
+4- Seguro y Multihilo
+Es una plataforma muy segura, algo que se destacó en la competencia contra flash, además, garantiza canales de comunicación confiables para proteger la privacidad de los datos.
+
+Como plus, JAVA posee una gran capacidad para elaborar tareas simultáneas dentro del programa, lo que permite ser mucho más accesible lo que hace mejorar el rendimiento y la velocidad de ejecución.
