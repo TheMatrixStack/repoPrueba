@@ -5,3 +5,10 @@ Algo mas
 
 
 Prueba commit 
+
+El lenguaje Java se creó con cinco objetivos principales:
+- Debería usar el paradigma de la programación orientada a objetos.
+- Debería permitir la ejecución de un mismo programa en múltiples sistemas operativos.
+- Debería incluir por defecto soporte para trabajo en red.
+- Debería diseñarse para ejecutar código en sistemas remotos de forma segura.
+- Debería ser fácil de usar y tomar lo mejor de otros lenguajes orientados a objetos, como C++. Fuente: Wikipedia
